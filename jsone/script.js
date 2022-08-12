@@ -7,10 +7,7 @@
 //null =0
 //bigInt 1n
 //symbol {}
-// +, -, /, *, **, %, =, ==, ===
-// var, let, const
-const numFirst = 1;
-numFerst = "qwer";
-let num = 2;
-var dog = "bin";
-console.log(typeof null);
+// +, -, /, *, **, %, =, ==, ===, !==, !=, +=, -=, --, ++, &&, ||
+// var, let, const,
+console.log(1=='1')
+console.log(1===1)
